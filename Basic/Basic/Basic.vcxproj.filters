@@ -13,10 +13,55 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\chapter03">
+      <UniqueIdentifier>{26635d35-4030-4ccc-a8ed-f6dc74f5386b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="challenge_0300.cpp">
+      <Filter>Source Files\chapter03</Filter>
+    </ClCompile>
     <ClCompile Include="hello_world.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="challenge_0301.cpp">
+      <Filter>Source Files\chapter03</Filter>
+    </ClCompile>
+    <ClCompile Include="challenge_0303.cpp">
+      <Filter>Source Files\chapter03</Filter>
+    </ClCompile>
+    <ClCompile Include="challenge0304.cpp">
+      <Filter>Source Files\chapter03</Filter>
+    </ClCompile>
+    <ClCompile Include="practice030N.cpp">
+      <Filter>Source Files\chapter03</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_0302.cpp">
+      <Filter>Source Files\chapter03</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_0304.cpp">
+      <Filter>Source Files\chapter03</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_0305.cpp">
+      <Filter>Source Files\chapter03</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_0306.cpp">
+      <Filter>Source Files\chapter03</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_0307.cpp">
+      <Filter>Source Files\chapter03</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_0308.cpp">
+      <Filter>Source Files\chapter03</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_0309.cpp">
+      <Filter>Source Files\chapter03</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_0310.cpp">
+      <Filter>Source Files\chapter03</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_0311.cpp">
+      <Filter>Source Files\chapter03</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
