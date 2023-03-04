@@ -16,6 +16,9 @@
     <Filter Include="Source Files\chapter03">
       <UniqueIdentifier>{26635d35-4030-4ccc-a8ed-f6dc74f5386b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\chapter04">
+      <UniqueIdentifier>{f2d00c56-6ed1-4e0a-8e05-7db63867e5a6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="challenge_0300.cpp">
@@ -33,7 +36,7 @@
     <ClCompile Include="challenge0304.cpp">
       <Filter>Source Files\chapter03</Filter>
     </ClCompile>
-    <ClCompile Include="practice030N.cpp">
+    <ClCompile Include="practice_030107.cpp">
       <Filter>Source Files\chapter03</Filter>
     </ClCompile>
     <ClCompile Include="exercise_0302.cpp">
@@ -62,6 +65,33 @@
     </ClCompile>
     <ClCompile Include="exercise_0311.cpp">
       <Filter>Source Files\chapter03</Filter>
+    </ClCompile>
+    <ClCompile Include="challenge_0400.cpp">
+      <Filter>Source Files\chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="challenge_0401.cpp">
+      <Filter>Source Files\chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="challenge_0403.cpp">
+      <Filter>Source Files\chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="challenge_0402.cpp">
+      <Filter>Source Files\chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="challenge_0404.cpp">
+      <Filter>Source Files\chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="challenge_0405.cpp">
+      <Filter>Source Files\chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_040105.cpp">
+      <Filter>Source Files\chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_040606.cpp">
+      <Filter>Source Files\chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_040707.cpp">
+      <Filter>Source Files\chapter04</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
