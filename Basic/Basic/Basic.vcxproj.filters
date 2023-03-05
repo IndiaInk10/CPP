@@ -93,6 +93,39 @@
     <ClCompile Include="practice_040707.cpp">
       <Filter>Source Files\chapter04</Filter>
     </ClCompile>
+    <ClCompile Include="exercise_0402.cpp">
+      <Filter>Source Files\chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_0403.cpp">
+      <Filter>Source Files\chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_0404.cpp">
+      <Filter>Source Files\chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>Source Files\chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_0406.cpp">
+      <Filter>Source Files\chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_0407.cpp">
+      <Filter>Source Files\chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_0408.cpp">
+      <Filter>Source Files\chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_0409.cpp">
+      <Filter>Source Files\chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_0410.cpp">
+      <Filter>Source Files\chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_0411.cpp">
+      <Filter>Source Files\chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_0412.cpp">
+      <Filter>Source Files\chapter04</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="std_lib_facilities.h">
