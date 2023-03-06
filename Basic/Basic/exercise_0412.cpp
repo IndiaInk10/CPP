@@ -2,7 +2,7 @@
 
 #include "std_lib_facilities.h"
 
-bool isPrime(int num)
+bool IsPrime(int num)
 {
 	for (int i = 2; i < num; i++)
 	{
@@ -21,7 +21,7 @@ int main()
 
 	for (int i = 2; i < input; i++)
 	{
-		if (isPrime(i))  cout << i << " ";
+		if (IsPrime(i))  cout << i << " ";
 	}
 
 	return 0;

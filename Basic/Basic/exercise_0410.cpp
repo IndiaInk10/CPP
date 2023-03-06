@@ -3,7 +3,7 @@
 #include "std_lib_facilities.h"
 
 // com -1 / draw 0 / player 1
-int checkWhoWin(int player, int com)
+int CheckWhoWin(int player, int com)
 {
 	switch (player) 
 	{
@@ -59,7 +59,7 @@ int main()
 		cout << "가위바위보 중 하나를 입력해주세요 : ";
 		cin >> input;
 		cout << "플레이어 : " << input << " / 컴퓨터 : " << ConvertRSP(com[seed]) << "\n";
-		switch (checkWhoWin(ConvertRSP(input), com[seed]))
+		switch (CheckWhoWin(ConvertRSP(input), com[seed]))
 		{
 		case -1:
 			cout << "컴퓨터 승\n";

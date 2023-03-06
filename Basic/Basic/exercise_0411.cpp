@@ -2,7 +2,7 @@
 
 #include "std_lib_facilities.h"
 
-bool isPrime(int num)
+bool IsPrime(int num)
 {
 	for (int i = 2; i < num; i++)
 	{
@@ -19,7 +19,7 @@ int main()
 
 	for (int i = 2; i <= 100; i++)
 	{
-		if (isPrime(i))  myPrimes.push_back(i);
+		if (IsPrime(i))  myPrimes.push_back(i);
 	}
 
 	for (int i = 0; i < primes.size(); i++)
