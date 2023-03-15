@@ -2,7 +2,7 @@
 
 #include "std_lib_facilities.h"
 
-int FindInVector(vector<int> v, int num)
+int FindInVector(vector<int>& v, int num)
 {
 	vector<int>::iterator vi = find(v.begin(), v.end(), num);
 

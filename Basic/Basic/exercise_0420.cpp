@@ -3,7 +3,7 @@
 
 #include "std_lib_facilities.h"
 
-int FindInVector(vector<string> v, string str)
+int FindInVector(vector<string>& v, string str)
 {
 	vector<string>::iterator vi = find(v.begin(), v.end(), str);
 
