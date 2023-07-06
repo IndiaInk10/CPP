@@ -1,3 +1,4 @@
-﻿  exercise_051213.cpp
-C:\Users\india\source\repos\CPP\Basic\Basic\exercise_051213.cpp(11,18): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+﻿  challenge_060N.cpp
+C:\Users\india\source\repos\CPP\Basic\Basic\chapter06\challenge_060N.cpp(109): warning C4715: 'primary': not all control paths return a value
+C:\Users\india\source\repos\CPP\Basic\Basic\chapter06\challenge_060N.cpp(80): warning C4715: 'Token_stream::get': not all control paths return a value
   Basic.vcxproj -> C:\Users\india\source\repos\CPP\Basic\x64\Debug\Basic.exe
